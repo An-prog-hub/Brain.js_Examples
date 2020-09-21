@@ -677,13 +677,13 @@ Source for `brain.js.org` is available at [Brain.js.org Repository](https://gith
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/BrainJS/brain.js/graphs/contributors"><img src="https://opencollective.com/brainjs/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/BrainJS/brain.js/graphs/contributors"></a>
 
 ## Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/brainjs#backer)]
 
-<a href="https://opencollective.com/brainjs#backers" target="_blank"><img src="https://opencollective.com/brainjs/backers.svg?width=890"></a>
+<a href="https://opencollective.com/brainjs#backers" target="_blank"></a>
 
 ## Sponsors
 
@@ -699,3 +699,10 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/brainjs/sponsor/7/website" target="_blank"><img src="https://opencollective.com/brainjs/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/brainjs/sponsor/8/website" target="_blank"><img src="https://opencollective.com/brainjs/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/brainjs/sponsor/9/website" target="_blank"><img src="https://opencollective.com/brainjs/sponsor/9/avatar.svg"></a>
+
+
+
+
+
+![Capture](https://user-images.githubusercontent.com/67872399/93734008-39975600-fbf5-11ea-806f-6680bf6f3089.JPG)
+
